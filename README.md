@@ -1,17 +1,20 @@
-# Experiment 1: Personal Profile Page
+# Experiment 1: Personal Profile Page (HTML Basics)
 
-## Objective
-To create a basic HTML web page that showcases my personal profile as part of the Web & Internet Technology course.
+## 🔍 Objective
+Create a simple HTML page that displays my personal profile.
 
-## Features Used
-- Headings, Paragraphs
-- Image
-- Unordered List
-- Anchor Tag (Links)
+## 📁 Files Included
+- `index.html`: The main file for the profile webpage.
 
-## How to View
-Open `index.html` in any web browser.
+## 💡 Features Used
+- Headings, Paragraphs, Lists
+- Hyperlinks
+- HTML Page Structure
 
-## Author
+## ✅ How to View
+Visit: [https://yourusername.github.io/personal-profile](https://yourusername.github.io/personal-profile)  
+*(Replace with your real GitHub Pages link)*
+
+## 👨‍💻 Author
 **Sarnajit Mandal**  
 [GitHub Profile](https://github.com/sarna2k2)
